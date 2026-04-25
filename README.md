@@ -167,9 +167,14 @@ You can also download the models from MakerWorld: [https://makerworld.com/en/mod
 
 If you just want a display piece, use the separate 3D Clawd model (no screen or electronics cutouts).
 
-<img src="pics/clawd_3D_4_3.png" alt="3D printed Clawd model" width="500"/>
+<img src="pics/clawd_3D_squished_eyes_4_3.png" alt="3D printed Clawd model with squished eyes" width="500"/>
 
-Model file: [`./models/clawd_3d/Clawd_3D_no_AMS.stl`](./models/clawd_3d/Clawd_3D_no_AMS.stl)
+Model files:
+
+| File | Description |
+| ---- | ----------- |
+| [`./models/clawd_3d/clawd_3D_no_AMS.stl`](./models/clawd_3d/clawd_3D_no_AMS.stl) | Original Clawd 3D model |
+| [`./models/clawd_3d_squished_eyes/clawd_3D_squished_eyes_no_AMS.stl`](./models/clawd_3d_squished_eyes/clawd_3D_squished_eyes_no_AMS.stl) | Squished eyes variant |
 
 You can also download the models from MakerWorld: [https://makerworld.com/en/models/2576503-clawd-claude-code-mascot#profileId-2841183](https://makerworld.com/en/models/2576503-clawd-claude-code-mascot#profileId-2841183)
 
