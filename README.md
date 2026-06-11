@@ -9,6 +9,8 @@ A physical desk companion inspired by **Clawd** — the pixel-crab mascot of Cla
 
 **Cost: ~$6–8 · Build time: ~1 hour · Skill level: Beginner**
 
+Support the project on Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/clawd.mochi)
+
 📦 3D printable case on MakerWorld: [https://makerworld.com/en/models/2559505-clawd-mochi-physical-claude-code-mascot#profileId-2820000](https://makerworld.com/en/models/2559505-clawd-mochi-physical-claude-code-mascot#profileId-2820000)
 
 ---
